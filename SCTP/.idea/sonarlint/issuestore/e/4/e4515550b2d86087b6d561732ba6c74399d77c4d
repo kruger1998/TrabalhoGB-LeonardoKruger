@@ -1,0 +1,37 @@
+
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÍÓÑ”0
+p
+java:S1192€"MDefine a constant instead of duplicating this literal "desconectado" 3 times.(Ò®ô­ûÿÿÿÿ8ÏÓÑ”0
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ó˜Ü¶úÿÿÿÿ8ÒÓÑ”0
+>
+java:S2189<""Add an end condition to this loop.(¤èÄ78êÓÑ”0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(«¢£Öüÿÿÿÿ8ñÓÑ”0
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÒÒ³†8õÓÑ”0
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ÆÑê8÷ÓÑ”0
+{
+java:S2142G"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8øÓÑ”0
+U	java:S106T"9Replace this use of System.out or System.err by a logger.( ïæÂ8ûÓÑ”0
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(¥ãğ‡8ıÓÑ”0
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(ñİš’8‘ÓÑ”0
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(‘à£­ÿÿÿÿÿ8‚‘ÓÑ”0
+a
+java:S4719x"?Replace Charset.forName() call with StandardCharsets.ISO_8859_1(°‹åáüÿÿÿÿ8„‘ÓÑ”0
+V	java:S106‰"9Replace this use of System.out or System.err by a logger.(³Æ8‡‘ÓÑ”0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(şç­ÿÿÿÿÿ8ˆ‘ÓÑ”0
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(¤Ù‰àüÿÿÿÿ8‰‘ÓÑ”0
+V	java:S106™"9Replace this use of System.out or System.err by a logger.(ÍõÉ›8Š‘ÓÑ”0
+O
+java:S1874",Remove this use of "exec"; it is deprecated.(’Á„‰ûÿÿÿÿ8‹‘ÓÑ”0
+^
+java:S1854¹";Remove this useless assignment to local variable "inbound".(øÎúºşÿÿÿÿ8‘ÓÑ”0
+_
+java:S1854¸"<Remove this useless assignment to local variable "outbound".(Ş´ïıÿÿÿÿ8‘ÓÑ”0
+]
+java:S1161µ":Add the "@Override" annotation above this method signature(¬Ø•Şùÿÿÿÿ8‘ÓÑ”0
+P
+java:S1481¸"-Remove this unused "outbound" local variable.(Ş´ïıÿÿÿÿ8’‘ÓÑ”0
+O
+java:S1481¹",Remove this unused "inbound" local variable.(øÎúºşÿÿÿÿ8“‘ÓÑ”0
+X
+java:S1161¿":Add the "@Override" annotation above this method signature(ô«»Ğ8”‘ÓÑ”0

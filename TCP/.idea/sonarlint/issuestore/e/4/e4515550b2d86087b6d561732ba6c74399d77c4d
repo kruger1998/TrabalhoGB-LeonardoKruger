@@ -1,0 +1,20 @@
+
+g	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8…·ëÑ”0
+o
+java:S1192t"MDefine a constant instead of duplicating this literal "desconectado" 3 times.(Ò®ô­ûÿÿÿÿ8†·ëÑ”0
+>
+java:S21895""Add an end condition to this loop.(¤èÄ78›·ëÑ”0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(«¢£Öüÿÿÿÿ8 ·ëÑ”0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÒÒ³†8¤·ëÑ”0
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ÆÑê8¥·ëÑ”0
+{
+java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8§·ëÑ”0
+U	java:S106M"9Replace this use of System.out or System.err by a logger.( ïæÂ8©·ëÑ”0
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(áåúÿÿÿÿ8«·ëÑ”0
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(‘à£­ÿÿÿÿÿ8­·ëÑ”0
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(³Æ8°·ëÑ”0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şç­ÿÿÿÿÿ8²·ëÑ”0
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ù‰àüÿÿÿÿ8²·ëÑ”0
+V	java:S106‰"9Replace this use of System.out or System.err by a logger.(ÍõÉ›8µ·ëÑ”0
+O
+java:S1874",Remove this use of "exec"; it is deprecated.(’Á„‰ûÿÿÿÿ8¶·ëÑ”0

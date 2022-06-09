@@ -1,0 +1,11 @@
+
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(óÃ€Ë8¦¥ÚÑ”0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÿÂ®ë8Æ¥ÚÑ”0
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(Ï´ÓÛ8Î¥ÚÑ”0
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(ûéÓ¸ûÿÿÿÿ8Ò¥ÚÑ”0
+a
+java:S4719J"?Replace Charset.forName() call with StandardCharsets.ISO_8859_1(°‹åáüÿÿÿÿ8Ó¥ÚÑ”0
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(¼‡ÿ‚ûÿÿÿÿ8Ô¥ÚÑ”0
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(‹Ëóøþÿÿÿÿ8Ö¥ÚÑ”0
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(€’„é8Ù¥ÚÑ”0
